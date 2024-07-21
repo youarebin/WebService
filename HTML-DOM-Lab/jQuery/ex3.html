@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Example 3</title>
+	<script	src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+	<script>
+	function displayDate() {
+		$("#demo").text(Date());
+	}
+	$(document).ready(function() {
+		$("#myBtn1").click(displayDate);
+		$("#myBtn2").click(function() {
+			$("#demo").text(Date());
+		});
+	});
+	</script>
+</head>
+<body>
+	<p>Click the button to display the date.</p>
+	
+	<button onclick="displayDate()">The time is?</button><br>
+	
+	<button id="myBtn1">Try this</button><br>
+	
+	<button id="myBtn2">Try this too</button><br>
+	
+	<p id="demo"></p>
+	
+<!-- 
+	<script>
+	function displayDate() {
+	  document.getElementById("demo").innerHTML = Date();
+	}
+	document.getElementById("myBtn1").onclick = displayDate;
+	document.getElementById("myBtn2").onclick = function() {
+		document.getElementById("demo").innerHTML = Date();
+	}
+	</script> 
+-->
+</body>
+</html> 

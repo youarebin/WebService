@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE catalog [
+ <!ENTITY favorateAuthor SYSTEM "김연수"> <!-- 내부 일반 parsed entity 정의 -->
+]>
+<catalog xmlns="http://www.example.org/bookML/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/bookML/2.0 bookML.xsd ">
+  <bookList>
+    <book isbn="895468000-3" xsi:type="BookType">
+      <title>이토록 평범한 미래</title>
+ 	  <author>&favorateAuthor;</author>
+      <publisher>문학동네</publisher>
+ 	  <publishDate year="2022" month="10" day="07" /> 
+      <price currency="won">
+		 <listPrice>14000</listPrice>
+		 <salesPrice discountRate="10">12600</salesPrice>
+	  </price> 
+      <pages>276</pages>
+	  <rating>9.4</rating>
+	  <category>c101-1-1</category>
+      <!-- <revisionDate day="0" month="0" year="0"/> -->
+      <coverImage src="https://image.yes24.com/goods/113737429/XL" type="JPEG" />
+      <description>description</description>
+      <review>review</review>
+    </book>
+    
+    <ebook isbn="978-893497246-4" xsi:type="eBookType">
+      <title>사피엔스</title>
+      <author>유발 하라리</author>
+      <publisher>김영사</publisher>
+      <publishDate year="2014" month="05" day="19" />
+      <price> <!-- currency="won" -->
+		<listPrice>12000</listPrice>
+		<salesPrice discountRate="20">9600</salesPrice>
+	  </price>
+      <pages>241</pages>
+	  <rating>9.2</rating>
+      <category>c102-1</category> <!-- 인문/일반교양, 역사/세계사 분야에 속함 -->
+ 	  <category>c103-2</category>
+      <!-- <revisionDate day="0" month="0" year="0"/> -->
+      <coverImage src="" type="JPEG"/>
+      <description>변방의 유인원 호모 사피엔스는 어떻게 세상의 지배자가 되었는가? 수렵채집을 하
+		던 우리 조상들은 어떻게 한 곳에 모여 도시와 왕국을 건설하였는가? 인간은 왜 지구 역사상 가장 치명적인
+		동물이 되었는가? 과학은 모든 종교의 미래인가? … 
+	  </description>
+      <review>review</review>
+      <originaltitle>originaltitle</originaltitle>
+      <translator>translator</translator>
+      <fileFormat value="EPUB" />
+      <size unit="MB">26.60</size>
+      <period>30</period>
+    </ebook>
+    
+    <newEBook isbn="978-890128069-1" xsi:type="newEBookType">
+      <title>생각 중독: 불안과 후회를 끊어내고 오늘을 사는 법</title>
+      <author>닉 트렌턴</author>
+      <publisher>publisher</publisher>
+      <publishDate year="2024" month="02" day="29" />
+      <price currency="won">
+        <listPrice>1</listPrice>
+        <salesPrice discountRate="0">2</salesPrice>
+      </price>
+      <pages>1</pages>
+      <rating>9.0</rating>
+      <category>c102-2</category>
+      <revisionDate year="2024" month="03" day="10" />
+      <coverImage src="" type="JPEG"/>
+      <description>description</description>
+      <review>review</review>
+      <originaltitle>originaltitle</originaltitle>
+      <translator>translator</translator>
+      <fileFormat value="PDF"/>
+      <size unit="MB">83.88</size>
+      <period>5</period>
+    </newEBook>
+  </bookList>
+  <bookCategory>
+    <category cid="c101" name="문학">
+		 <category cid="c101-1" name="소설"/>
+		 <category cid="c101-1-1" name="한국소설"> ... </category>
+		 <category cid="c101-1-2" name="영미소설"> ... </category>
+ 	</category>
+  </bookCategory>
+</catalog>

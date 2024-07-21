@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Example 2</title>
+	<script>
+	function change(img) {
+		img.src = "images/pic_trulli.jpg";
+	}
+	</script>
+</head>
+<body>
+	<p id="p0">Hello World!</p>
+	<p id="p1">Hello World!</p>
+	<img id="image" src="images/smiley.jpg"><br><br>
+	<img id="myImage" src="images/smiley.jpg" onclick="change(this)"><br>
+
+	<script>
+	document.getElementById("p1").innerHTML = "<h2>Hello <u>New</u> World!</h2>";
+	document.getElementById("myImage").src = "images/landscape.jpg";
+	</script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My title</title>
+</head>
+<body>
+	<a href="#">My link</a>
+	<h1>My header</h1>
+	<form id="form1">
+		First name: 
+		<input type="text" name="fname" size="5" value="Andy" /> 
+		<input type="submit" value="제출" disabled/>
+	</form>
+ 
+	<script>
+ 		var a = document.getElementsByTagName("a")[0];
+ 				// document.links[0]; 로 변경 가능 
+		a.href = "http://cs.dongduk.ac.kr";
+		var f = document.getElementById("form1");
+				// document.forms[0]; 로 변경 가능
+		f.fname.value = "Chris";  
+	</script>
+
+</body>
+</html>

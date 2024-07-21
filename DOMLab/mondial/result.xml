@@ -1,0 +1,2779 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mondial>
+  <country>
+    <name>Albania</name>
+    <area>28750</area>
+    <population>3249136</population>
+    <city id="cty-cid-cia-Albania-Tirane">
+      <name>Tirane</name>
+      <longitude>19.8</longitude>
+      <latitude>41.3</latitude>
+      <population year="87">192000</population>
+    </city>
+  </country>
+  <country>
+    <name>Greece</name>
+    <area>131940</area>
+    <population>10538594</population>
+    <city id="cty-Greece-Athens">
+      <name>Athens</name>
+      <longitude>23.7167</longitude>
+      <latitude>37.9667</latitude>
+      <population year="81">885737</population>
+      <located_at sea="sea-Mittelmeer" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Macedonia</name>
+    <area>25333</area>
+    <population>2104035</population>
+    <city id="cty-cid-cia-Macedonia-Skopje">
+      <name>Skopje</name>
+      <longitude>21.4</longitude>
+      <latitude>42</latitude>
+      <population year="02">506926</population>
+    </city>
+  </country>
+  <country>
+    <name>Serbia</name>
+    <area>77474</area>
+    <population>7379339</population>
+    <city id="city-Belgrade-SRB-SRB">
+      <name>Belgrade</name>
+      <longitude>20.4667</longitude>
+      <latitude>44.8</latitude>
+      <population year="87">1407073</population>
+      <located_at river="river-Donau" watertype="river"/>
+      <located_at river="river-Save" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Montenegro</name>
+    <area>14026</area>
+    <population>672180</population>
+    <city id="city-Podgorica-MNE-MNE">
+      <name>Podgorica</name>
+      <longitude>19.16</longitude>
+      <latitude>42.26</latitude>
+      <population year="03">169132</population>
+    </city>
+  </country>
+  <country>
+    <name>Kosovo</name>
+    <area>10887</area>
+    <population>1804838</population>
+    <city id="city-Pristina-KOS-KOS">
+      <name>Pristina</name>
+      <longitude>21.10</longitude>
+      <latitude>42.40</latitude>
+    </city>
+  </country>
+  <country>
+    <name>Andorra</name>
+    <area>450</area>
+    <population>72766</population>
+    <city id="cty-cid-cia-Andorra-Andorra-la-Vella">
+      <name>Andorra la Vella</name>
+      <longitude>1.3</longitude>
+      <latitude>42.3</latitude>
+      <population year="87">15600</population>
+    </city>
+  </country>
+  <country>
+    <name>France</name>
+    <area>547030</area>
+    <population>58317450</population>
+    <city id="cty-France-Paris">
+      <name>Paris</name>
+      <longitude>2.48333</longitude>
+      <latitude>48.8167</latitude>
+      <population year="90">2152423</population>
+      <located_at river="river-Seine" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Spain</name>
+    <area>504750</area>
+    <population>39181114</population>
+    <city id="cty-Spain-Madrid">
+      <name>Madrid</name>
+      <longitude>-3.68333</longitude>
+      <latitude>40.4167</latitude>
+      <population year="94">3041101</population>
+    </city>
+  </country>
+  <country>
+    <name>Austria</name>
+    <area>83850</area>
+    <population>8023244</population>
+    <city id="cty-Austria-Vienna">
+      <name>Vienna</name>
+      <longitude>16.3667</longitude>
+      <latitude>48.2</latitude>
+      <population year="94">1583000</population>
+      <located_at river="river-Donau" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Czech Republic</name>
+    <area>78703</area>
+    <population>10321120</population>
+    <city id="cty-cid-cia-Czech-Republic-2">
+      <name>Prague</name>
+      <longitude>14.4167</longitude>
+      <latitude>50.0833</latitude>
+      <population year="90">1215000</population>
+    </city>
+  </country>
+  <country>
+    <name>Germany</name>
+    <area>356910</area>
+    <population>83536115</population>
+    <city id="cty-Germany-Berlin">
+      <name>Berlin</name>
+      <longitude>13.3</longitude>
+      <latitude>52.45</latitude>
+      <population year="95">3472009</population>
+    </city>
+  </country>
+  <country>
+    <name>Hungary</name>
+    <area>93030</area>
+    <population>10002541</population>
+    <city id="cty-Hungary-Budapest">
+      <name>Budapest</name>
+      <longitude>19.0333</longitude>
+      <latitude>47.5167</latitude>
+      <population year="92">2016000</population>
+      <located_at river="river-Donau" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Italy</name>
+    <area>301230</area>
+    <population>57460274</population>
+    <city id="cty-Italy-Rome">
+      <name>Rome</name>
+      <longitude>12.6</longitude>
+      <latitude>41.8</latitude>
+      <population year="90">2791354</population>
+      <located_at river="river-Tiber" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Liechtenstein</name>
+    <area>160</area>
+    <population>31122</population>
+    <city id="cty-cid-cia-Liechtenstein-Vaduz">
+      <name>Vaduz</name>
+      <longitude>9.3</longitude>
+      <latitude>47.08</latitude>
+      <population year="87">27714</population>
+    </city>
+  </country>
+  <country>
+    <name>Slovakia</name>
+    <area>48845</area>
+    <population>5374362</population>
+    <city id="cty-cid-cia-Slovakia-Bratislava">
+      <name>Bratislava</name>
+      <longitude>17.1</longitude>
+      <latitude>48.1</latitude>
+      <located_at river="river-Donau" watertype="river"/>
+      <located_at river="river-March" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Slovenia</name>
+    <area>20256</area>
+    <population>1951443</population>
+    <city id="cty-cid-cia-Slovenia-Ljubljana">
+      <name>Ljubljana</name>
+      <longitude>14.5</longitude>
+      <latitude>46.05</latitude>
+      <located_at river="river-Save" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Switzerland</name>
+    <area>41290</area>
+    <population>7207060</population>
+    <city id="cty-cid-cia-Switzerland-5">
+      <name>Bern</name>
+      <longitude>7.3</longitude>
+      <latitude>46.6</latitude>
+      <population year="91">134393</population>
+      <located_at river="river-Aare" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Belarus</name>
+    <area>207600</area>
+    <population>10415973</population>
+    <city id="cty-Belarus-Minsk">
+      <name>Minsk</name>
+      <longitude>27.55</longitude>
+      <latitude>53.9</latitude>
+      <population year="87">1540000</population>
+    </city>
+  </country>
+  <country>
+    <name>Latvia</name>
+    <area>64100</area>
+    <population>2468982</population>
+    <city id="cty-cid-cia-Latvia-Riga">
+      <name>Riga</name>
+      <longitude>24.1</longitude>
+      <latitude>57</latitude>
+      <population year="87">900000</population>
+      <located_at sea="sea-Ostsee" watertype="sea"/>
+      <located_at river="river-Westliche_Dwina" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Lithuania</name>
+    <area>65200</area>
+    <population>3646041</population>
+    <city id="cty-cid-cia-Lithuania-Vilnius">
+      <name>Vilnius</name>
+      <longitude>25.3</longitude>
+      <latitude>54.4</latitude>
+      <population year="87">566000</population>
+    </city>
+  </country>
+  <country>
+    <name>Poland</name>
+    <area>312683</area>
+    <population>38642565</population>
+    <city id="cty-Poland-Warsaw">
+      <name>Warsaw</name>
+      <longitude>21.0333</longitude>
+      <latitude>52.2167</latitude>
+      <population year="90">1655000</population>
+      <located_at river="river-Weichsel" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Ukraine</name>
+    <area>603700</area>
+    <population>50864009</population>
+    <city id="cty-Ukraine-Kiev">
+      <name>Kiev</name>
+      <longitude>30.5</longitude>
+      <latitude>50.45</latitude>
+      <population year="90">2616000</population>
+      <located_at river="river-Dnepr" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Russia</name>
+    <area>17075200</area>
+    <population>148178487</population>
+    <city id="cty-Russia-Moscow">
+      <name>Moscow</name>
+      <longitude>37.6667</longitude>
+      <latitude>55.7667</latitude>
+      <population year="95">8717000</population>
+    </city>
+  </country>
+  <country>
+    <name>Belgium</name>
+    <area>30510</area>
+    <population>10170241</population>
+    <city id="cty-Belgium-Brussels">
+      <name>Brussels</name>
+      <longitude>4.35</longitude>
+      <latitude>50.85</latitude>
+      <population year="95">951580</population>
+    </city>
+  </country>
+  <country>
+    <name>Luxembourg</name>
+    <area>2586</area>
+    <population>415870</population>
+    <city id="cty-cid-cia-Luxembourg-Luxembourg">
+      <name>Luxembourg</name>
+      <longitude>6.08</longitude>
+      <latitude>49.4</latitude>
+      <population year="87">76600</population>
+    </city>
+  </country>
+  <country>
+    <name>Netherlands</name>
+    <area>37330</area>
+    <population>15568034</population>
+    <city id="cty-Netherlands-Amsterdam">
+      <name>Amsterdam</name>
+      <longitude>4.91667</longitude>
+      <latitude>52.3833</latitude>
+      <population year="95">1101407</population>
+    </city>
+  </country>
+  <country>
+    <name>Bosnia and Herzegovina</name>
+    <area>51233</area>
+    <population>2656240</population>
+    <city id="cty-cid-cia-Bosnia-and-Herzegovina-Sarajevo">
+      <name>Sarajevo</name>
+      <longitude>18.4</longitude>
+      <latitude>43.9</latitude>
+    </city>
+  </country>
+  <country>
+    <name>Croatia</name>
+    <area>56538</area>
+    <population>5004112</population>
+    <city id="cty-cid-cia-Croatia-Zagreb">
+      <name>Zagreb</name>
+      <longitude>16</longitude>
+      <latitude>45.8</latitude>
+      <located_at river="river-Save" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Bulgaria</name>
+    <area>110910</area>
+    <population>8612757</population>
+    <city id="cty-Bulgaria-Sofia">
+      <name>Sofia</name>
+      <longitude>23.3333</longitude>
+      <latitude>42.7</latitude>
+      <population year="87">1300000</population>
+    </city>
+  </country>
+  <country>
+    <name>Romania</name>
+    <area>237500</area>
+    <population>21657162</population>
+    <city id="cty-cid-cia-Romania-2">
+      <name>Bucharest</name>
+      <longitude>26.1</longitude>
+      <latitude>44.4167</latitude>
+      <population year="89">2037000</population>
+    </city>
+  </country>
+  <country>
+    <name>Turkey</name>
+    <area>780580</area>
+    <population>62484478</population>
+    <city id="cty-Turkey-Ankara">
+      <name>Ankara</name>
+      <longitude>32.8833</longitude>
+      <latitude>39.95</latitude>
+      <population year="94">2782200</population>
+    </city>
+  </country>
+  <country>
+    <name>Denmark</name>
+    <area>43070</area>
+    <population>5249632</population>
+    <city id="cty-Denmark-Copenhagen">
+      <name>Copenhagen</name>
+      <longitude>12.55</longitude>
+      <latitude>55.6833</latitude>
+      <population year="87">1358540</population>
+      <located_at sea="sea-Ostsee" watertype="sea"/>
+      <located_on island="island-Seeland"/>
+    </city>
+  </country>
+  <country>
+    <name>Estonia</name>
+    <area>45100</area>
+    <population>1459428</population>
+    <city id="cty-cid-cia-Estonia-Tallinn">
+      <name>Tallinn</name>
+      <longitude>25</longitude>
+      <latitude>59.3</latitude>
+      <population year="87">478000</population>
+      <located_at sea="sea-Ostsee" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Faroe Islands</name>
+    <area>1400</area>
+    <population>43857</population>
+    <city id="cty-cid-cia-Faroe-Islands-Torshavn">
+      <name>Torshavn</name>
+      <longitude>-7</longitude>
+      <latitude>62</latitude>
+      <located_at sea="sea-Europaeisches_Nordmeer" watertype="sea"/>
+      <located_on island="island-Streymoy"/>
+    </city>
+  </country>
+  <country>
+    <name>Finland</name>
+    <area>337030</area>
+    <population>5105230</population>
+    <city id="cty-Finland-Helsinki">
+      <name>Helsinki</name>
+      <longitude>24.95</longitude>
+      <latitude>60.1667</latitude>
+      <population year="87">487428</population>
+      <located_at sea="sea-Ostsee" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Norway</name>
+    <area>324220</area>
+    <population>4383807</population>
+    <city id="cty-Norway-Oslo">
+      <name>Oslo</name>
+      <longitude>10.7333</longitude>
+      <latitude>59.9333</latitude>
+      <population year="87">449337</population>
+      <located_at sea="sea-Skagerrak" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Sweden</name>
+    <area>449964</area>
+    <population>8900954</population>
+    <city id="cty-Sweden-Stockholm">
+      <name>Stockholm</name>
+      <longitude>18.0667</longitude>
+      <latitude>59.35</latitude>
+      <population year="95">711119</population>
+      <located_at sea="sea-Ostsee" watertype="sea"/>
+      <located_at lake="lake-Maelarsee" watertype="lake"/>
+    </city>
+  </country>
+  <country>
+    <name>Monaco</name>
+    <area>1.9</area>
+    <population>31719</population>
+    <city id="cty-cid-cia-Monaco-Monaco">
+      <name>Monaco</name>
+      <longitude>7.2</longitude>
+      <latitude>43.7</latitude>
+      <population year="87">1234</population>
+      <located_at sea="sea-Mittelmeer" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Gibraltar</name>
+    <area>6.5</area>
+    <population>28765</population>
+    <city id="cty-Gibraltar-Gibraltar">
+      <name>Gibraltar</name>
+      <longitude>-5.2</longitude>
+      <latitude>36.15</latitude>
+    </city>
+  </country>
+  <country>
+    <name>Guernsey</name>
+    <area>194</area>
+    <population>62920</population>
+    <city id="cty-cid-cia-Guernsey-Saint-Peter-Port">
+      <name>Saint Peter Port</name>
+      <longitude>-2.6</longitude>
+      <latitude>49.6</latitude>
+      <located_at sea="sea-Channel" watertype="sea"/>
+      <located_on island="island-Guernsey"/>
+    </city>
+  </country>
+  <country>
+    <name>Holy See</name>
+    <area>0.44</area>
+    <population>840</population>
+    <city id="cty-cid-cia-Holy-See-Vatican-City">
+      <name>Vatican City</name>
+      <longitude>12.3</longitude>
+      <latitude>41.5</latitude>
+      <population year="87">392</population>
+    </city>
+  </country>
+  <country>
+    <name>Iceland</name>
+    <area>103000</area>
+    <population>270292</population>
+    <city id="cty-Iceland-Reykjavik">
+      <name>Reykjavik</name>
+      <longitude>-21.9333</longitude>
+      <latitude>64.1333</latitude>
+      <population year="87">84000</population>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+      <located_on island="island-Iceland"/>
+    </city>
+  </country>
+  <country>
+    <name>Ireland</name>
+    <area>70280</area>
+    <population>3566833</population>
+    <city id="cty-Ireland-Dublin">
+      <name>Dublin</name>
+      <longitude>-6.35</longitude>
+      <latitude>53.3667</latitude>
+      <population year="87">502337</population>
+      <located_at sea="sea-Irische_See" watertype="sea"/>
+      <located_on island="island-Ireland"/>
+    </city>
+  </country>
+  <country>
+    <name>San Marino</name>
+    <area>60</area>
+    <population>24521</population>
+    <city id="cty-cid-cia-San-Marino-San-Marino">
+      <name>San Marino</name>
+      <longitude>12.2</longitude>
+      <latitude>43.5</latitude>
+      <population year="87">4416</population>
+    </city>
+  </country>
+  <country>
+    <name>Jersey</name>
+    <area>117</area>
+    <population>87848</population>
+    <city id="cty-cid-cia-Jersey-Saint-Helier">
+      <name>Saint Helier</name>
+      <longitude>-2.1</longitude>
+      <latitude>49.2</latitude>
+      <located_at sea="sea-Channel" watertype="sea"/>
+      <located_on island="island-Jersey"/>
+    </city>
+  </country>
+  <country>
+    <name>Malta</name>
+    <area>320</area>
+    <population>375576</population>
+    <city id="cty-cid-cia-Malta-Valletta">
+      <name>Valletta</name>
+      <longitude>14.5</longitude>
+      <latitude>35.9</latitude>
+      <population year="87">9302</population>
+      <located_at sea="sea-Mittelmeer" watertype="sea"/>
+      <located_on island="island-Malta"/>
+    </city>
+  </country>
+  <country>
+    <name>Man</name>
+    <area>588</area>
+    <population>73837</population>
+    <city id="cty-cid-cia-Man-Douglas">
+      <name>Douglas</name>
+      <longitude>-4.6</longitude>
+      <latitude>54.15</latitude>
+      <located_at sea="sea-Irische_See" watertype="sea"/>
+      <located_on island="island-Isle_of_Man"/>
+    </city>
+  </country>
+  <country>
+    <name>Moldova</name>
+    <area>33700</area>
+    <population>4463847</population>
+    <city id="cty-cid-cia-Moldova-Chisinau">
+      <name>Chisinau</name>
+      <longitude>28.1</longitude>
+      <latitude>47.2</latitude>
+      <population year="87">663000</population>
+    </city>
+  </country>
+  <country>
+    <name>Portugal</name>
+    <area>92080</area>
+    <population>9865114</population>
+    <city id="cty-Portugal-Lisbon">
+      <name>Lisbon</name>
+      <longitude>-9.13333</longitude>
+      <latitude>38.7167</latitude>
+      <population year="81">807937</population>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+      <located_at river="river-Tajo" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Svalbard</name>
+    <area>62049</area>
+    <population>2116</population>
+    <city id="city-Longyearbyen-SVAX-SVAX">
+      <name>Longyearbyen</name>
+      <longitude>15.33</longitude>
+      <latitude>78.13</latitude>
+      <located_at sea="sea-Europaeisches_Nordmeer" watertype="sea"/>
+      <located_on island="island-Svalbard"/>
+    </city>
+  </country>
+  <country>
+    <name>United Kingdom</name>
+    <area>244820</area>
+    <population>58489975</population>
+    <city id="cty-cid-cia-United-Kingdom-2">
+      <name>London</name>
+      <longitude>0</longitude>
+      <latitude>51.4833</latitude>
+      <population year="94">6967500</population>
+      <located_at river="river-Themse" watertype="river"/>
+      <located_on island="island-GreatBritain"/>
+    </city>
+  </country>
+  <country>
+    <name>Afghanistan</name>
+    <area>647500</area>
+    <population>22664136</population>
+    <city id="cty-Afghanistan-Kabul">
+      <name>Kabul</name>
+      <longitude>69.2</longitude>
+      <latitude>34.5833</latitude>
+      <population year="87">892000</population>
+    </city>
+  </country>
+  <country>
+    <name>China</name>
+    <area>9596960</area>
+    <population>1210004956</population>
+    <city id="cty-cid-cia-China-3">
+      <name>Beijing</name>
+      <longitude>116.2</longitude>
+      <latitude>39.5</latitude>
+      <population year="91">7000000</population>
+    </city>
+  </country>
+  <country>
+    <name>Iran</name>
+    <area>1648000</area>
+    <population>66094264</population>
+    <city id="cty-Iran-Tehran">
+      <name>Tehran</name>
+      <longitude>51.4167</longitude>
+      <latitude>35.6833</latitude>
+      <population year="94">6750043</population>
+    </city>
+  </country>
+  <country>
+    <name>Pakistan</name>
+    <area>803940</area>
+    <population>129275660</population>
+    <city id="cty-cid-cia-Pakistan-15">
+      <name>Islamabad</name>
+      <longitude>73</longitude>
+      <latitude>34</latitude>
+      <population year="81">204364</population>
+    </city>
+  </country>
+  <country>
+    <name>Tajikistan</name>
+    <area>143100</area>
+    <population>5916373</population>
+    <city id="cty-cid-cia-Tajikistan-2">
+      <name>Dushanbe</name>
+      <longitude>68.48</longitude>
+      <latitude>38.3</latitude>
+      <population year="89">582400</population>
+    </city>
+  </country>
+  <country>
+    <name>Turkmenistan</name>
+    <area>488100</area>
+    <population>4149283</population>
+    <city id="cty-cid-cia-Turkmenistan-2">
+      <name>Ashgabat</name>
+      <longitude>58.2</longitude>
+      <latitude>37.58</latitude>
+      <population year="91">416400</population>
+    </city>
+  </country>
+  <country>
+    <name>Uzbekistan</name>
+    <area>447400</area>
+    <population>23418381</population>
+    <city id="cty-Uzbekistan-Tashkent">
+      <name>Tashkent</name>
+      <longitude>69.3</longitude>
+      <latitude>41.3333</latitude>
+      <population year="93">2106000</population>
+    </city>
+  </country>
+  <country>
+    <name>Armenia</name>
+    <area>29800</area>
+    <population>3463574</population>
+    <city id="cty-cid-cia-Armenia-Yerevan">
+      <name>Yerevan</name>
+      <longitude>44.4</longitude>
+      <latitude>40.1</latitude>
+      <population year="87">1200000</population>
+    </city>
+  </country>
+  <country>
+    <name>Georgia</name>
+    <area>69700</area>
+    <population>5219810</population>
+    <city id="cty-Georgia-Tbilisi">
+      <name>Tbilisi</name>
+      <longitude>44.8</longitude>
+      <latitude>41.7167</latitude>
+      <population year="87">1200000</population>
+      <located_at river="river-Kura" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Azerbaijan</name>
+    <area>86600</area>
+    <population>7676953</population>
+    <city id="cty-cid-cia-Azerbaijan-Baku">
+      <name>Baku</name>
+      <longitude>49.5</longitude>
+      <latitude>40.3</latitude>
+      <population year="87">1740000</population>
+      <located_at lake="lake-KaspischesMeer" watertype="lake"/>
+    </city>
+  </country>
+  <country>
+    <name>Bahrain</name>
+    <area>620</area>
+    <population>590042</population>
+    <city id="cty-cid-cia-Bahrain-Manama">
+      <name>Manama</name>
+      <longitude>50.5</longitude>
+      <latitude>26</latitude>
+      <population year="87">145000</population>
+      <located_at sea="sea-Persischer_Golf" watertype="sea"/>
+      <located_on island="island-Bahrain"/>
+    </city>
+  </country>
+  <country>
+    <name>Bangladesh</name>
+    <area>144000</area>
+    <population>123062800</population>
+    <city id="cty-cid-cia-Bangladesh-2-0">
+      <name>Dhaka</name>
+      <longitude>90.5</longitude>
+      <latitude>24</latitude>
+      <population year="91">3839000</population>
+      <located_at river="river-Ganges" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Myanmar</name>
+    <area>678500</area>
+    <population>45975625</population>
+    <city id="cty-Burma-Rangoon">
+      <name>Rangoon</name>
+      <longitude>96.15</longitude>
+      <latitude>16.7833</latitude>
+      <population year="83">2513000</population>
+    </city>
+  </country>
+  <country>
+    <name>India</name>
+    <area>3287590</area>
+    <population>952107694</population>
+    <city id="cty-India-New-Delhi">
+      <name>New Delhi</name>
+      <longitude>77.2</longitude>
+      <latitude>28.5833</latitude>
+      <population year="91">7206704</population>
+    </city>
+  </country>
+  <country>
+    <name>Bhutan</name>
+    <area>47000</area>
+    <population>1822625</population>
+    <city id="cty-cid-cia-Bhutan-Thimphu">
+      <name>Thimphu</name>
+      <longitude>90</longitude>
+      <latitude>27</latitude>
+      <population year="87">20000</population>
+    </city>
+  </country>
+  <country>
+    <name>Brunei</name>
+    <area>5770</area>
+    <population>299939</population>
+    <city id="cty-cid-cia-Brunei-Bandar-Seri-Begawan">
+      <name>Bandar Seri Begawan</name>
+      <longitude>115</longitude>
+      <latitude>5</latitude>
+      <population year="87">56300</population>
+      <located_on island="island-Borneo"/>
+    </city>
+  </country>
+  <country>
+    <name>Malaysia</name>
+    <area>329750</area>
+    <population>19962893</population>
+    <city id="cty-Malaysia-Kuala-Lumpur">
+      <name>Kuala Lumpur</name>
+      <longitude>101.7</longitude>
+      <latitude>3.11667</latitude>
+      <population year="91">1145075</population>
+    </city>
+  </country>
+  <country>
+    <name>Laos</name>
+    <area>236800</area>
+    <population>4975772</population>
+    <city id="cty-cid-cia-Laos-Vientiane">
+      <name>Vientiane</name>
+      <longitude>102.45</longitude>
+      <latitude>18</latitude>
+      <population year="87">377409</population>
+      <located_at river="river-Mekong" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Thailand</name>
+    <area>514000</area>
+    <population>58851357</population>
+    <city id="cty-Thailand-Bangkok">
+      <name>Bangkok</name>
+      <longitude>100.5</longitude>
+      <latitude>13.7333</latitude>
+      <population year="90">5876000</population>
+    </city>
+  </country>
+  <country>
+    <name>Cambodia</name>
+    <area>181040</area>
+    <population>10861218</population>
+    <city id="cty-Cambodia-Phnom-Penh">
+      <name>Phnom Penh</name>
+      <longitude>104.85</longitude>
+      <latitude>11.55</latitude>
+      <population year="87">400000</population>
+      <located_at river="river-Mekong" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Vietnam</name>
+    <area>329560</area>
+    <population>73976973</population>
+    <city id="cty-Vietnam-Hanoi">
+      <name>Hanoi</name>
+      <longitude>105.867</longitude>
+      <latitude>21.0333</latitude>
+      <population year="89">3056146</population>
+    </city>
+  </country>
+  <country>
+    <name>Kazakstan</name>
+    <area>2717300</area>
+    <population>16916463</population>
+    <city id="cty-cid-cia-Kazakstan-2">
+      <name>Almaty</name>
+      <longitude>76.8833</longitude>
+      <latitude>43.2333</latitude>
+      <population year="95">1172400</population>
+    </city>
+  </country>
+  <country>
+    <name>North Korea</name>
+    <area>120540</area>
+    <population>23904124</population>
+    <city id="cty-cid-cia-North-Korea-2">
+      <name>Pyongyang</name>
+      <longitude>125.683</longitude>
+      <latitude>39.0333</latitude>
+      <population year="87">2335000</population>
+    </city>
+  </country>
+  <country>
+    <name>Kyrgyzstan</name>
+    <area>198500</area>
+    <population>4529648</population>
+    <city id="cty-cid-cia-Kyrgyzstan-Bishkek">
+      <name>Bishkek</name>
+      <longitude>74.5</longitude>
+      <latitude>42.4</latitude>
+      <population year="87">630000</population>
+    </city>
+  </country>
+  <country>
+    <name>Hong Kong</name>
+    <area>1092</area>
+    <population>7055071</population>
+    <city id="cty-Hongkong">
+      <name>Hong Kong</name>
+      <longitude>114.2</longitude>
+      <latitude>22.3</latitude>
+      <population year="09">7055071</population>
+    </city>
+  </country>
+  <country>
+    <name>Macau</name>
+    <area>16</area>
+    <population>496837</population>
+    <city id="cty-cid-cia-Macau-Macau">
+      <name>Macau</name>
+      <longitude>113.55</longitude>
+      <latitude>22.2</latitude>
+    </city>
+  </country>
+  <country>
+    <name>Mongolia</name>
+    <area>1565000</area>
+    <population>2496617</population>
+    <city id="cty-cid-cia-Mongolia-Ulaanbaatar">
+      <name>Ulaanbaatar</name>
+      <longitude>107</longitude>
+      <latitude>48</latitude>
+      <population year="87">479500</population>
+    </city>
+  </country>
+  <country>
+    <name>Nepal</name>
+    <area>140800</area>
+    <population>22094033</population>
+    <city id="cty-cid-cia-Nepal-Kathmandu">
+      <name>Kathmandu</name>
+      <longitude>85.25</longitude>
+      <latitude>27.45</latitude>
+      <population year="87">393494</population>
+    </city>
+  </country>
+  <country>
+    <name>Christmas Island</name>
+    <area>135</area>
+    <population>1402</population>
+    <city id="city-The-Settlement-XMAS-XMAS">
+      <name>Flying Fish Cove</name>
+      <longitude>105.43</longitude>
+      <latitude>-10.25</latitude>
+      <located_at sea="sea-Indic" watertype="sea"/>
+      <located_on island="island-ChristmasIsland"/>
+    </city>
+  </country>
+  <country>
+    <name>Cocos Islands</name>
+    <area>14</area>
+    <population>596</population>
+    <city id="city-West-Island-COCO-COCO">
+      <name>West Island</name>
+      <longitude>96.50</longitude>
+      <latitude>-12.10</latitude>
+      <located_at sea="sea-Indic" watertype="sea"/>
+      <located_on island="island-PulauPanjang"/>
+    </city>
+  </country>
+  <country>
+    <name>Cyprus</name>
+    <area>9251</area>
+    <population>744609</population>
+    <city id="cty-cid-cia-Cyprus-Nicosia">
+      <name>Nicosia</name>
+      <longitude>33.2</longitude>
+      <latitude>35.4</latitude>
+      <population year="87">161100</population>
+      <located_on island="island-Cyprus"/>
+    </city>
+  </country>
+  <country>
+    <name>Gaza Strip</name>
+    <area>360</area>
+    <population>813332</population>
+  </country>
+  <country>
+    <name>Israel</name>
+    <area>20770</area>
+    <population>5421995</population>
+    <city id="cty-Israel-Jerusalem">
+      <name>Jerusalem</name>
+      <longitude>35.2167</longitude>
+      <latitude>31.7833</latitude>
+      <population year="87">468900</population>
+    </city>
+  </country>
+  <country>
+    <name>Egypt</name>
+    <area>1001450</area>
+    <population>63575107</population>
+    <city id="cty-Egypt-Cairo">
+      <name>Cairo</name>
+      <longitude>31.3333</longitude>
+      <latitude>29.8667</latitude>
+      <population year="86">6053000</population>
+      <located_at river="river-Nil" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Indonesia</name>
+    <area>1919440</area>
+    <population>206611600</population>
+    <city id="cty-cid-cia-Indonesia-2">
+      <name>Jakarta</name>
+      <longitude>106.5</longitude>
+      <latitude>-6.1</latitude>
+      <population year="90">8259266</population>
+      <located_at sea="sea-Sundasee" watertype="sea"/>
+      <located_on island="island-Java"/>
+    </city>
+  </country>
+  <country>
+    <name>Timor-Leste</name>
+    <area>15007</area>
+    <population>1131612</population>
+    <city id="city-Dili-TL-TL">
+      <name>Dili</name>
+      <longitude>125.6</longitude>
+      <latitude>-8.6</latitude>
+      <population year="06">59069</population>
+      <located_at sea="sea-Sundasee" watertype="sea"/>
+      <located_on island="island-Timor"/>
+    </city>
+  </country>
+  <country>
+    <name>Papua New Guinea</name>
+    <area>461690</area>
+    <population>4394537</population>
+    <city id="cty-cid-cia-Papua-New-Guinea-Port-Moresby">
+      <name>Port Moresby</name>
+      <longitude>147.15</longitude>
+      <latitude>-9.48333</latitude>
+      <population year="87">141500</population>
+      <located_at sea="sea-Pacific" watertype="sea"/>
+      <located_on island="island-New-Guinea"/>
+    </city>
+  </country>
+  <country>
+    <name>Iraq</name>
+    <area>437072</area>
+    <population>21422292</population>
+    <city id="cty-Iraq-Baghdad">
+      <name>Baghdad</name>
+      <longitude>44.4</longitude>
+      <latitude>33.3333</latitude>
+      <population year="87">4478000</population>
+      <located_at river="river-Tigris" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Jordan</name>
+    <area>89213</area>
+    <population>4212152</population>
+    <city id="cty-Jordan-Amman">
+      <name>Amman</name>
+      <longitude>35.95</longitude>
+      <latitude>31.95</latitude>
+      <population year="87">777500</population>
+    </city>
+  </country>
+  <country>
+    <name>Kuwait</name>
+    <area>17820</area>
+    <population>1950047</population>
+    <city id="cty-cid-cia-Kuwait-Kuwait">
+      <name>Kuwait</name>
+      <longitude>47.3</longitude>
+      <latitude>29.3</latitude>
+      <population year="87">167768</population>
+      <located_at sea="sea-Persischer_Golf" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Saudi Arabia</name>
+    <area>1960582</area>
+    <population>19409058</population>
+    <city id="cty-cid-cia-Saudi-Arabia-Riyadh">
+      <name>Riyadh</name>
+      <longitude>46.7</longitude>
+      <latitude>24.65</latitude>
+      <population year="87">1250000</population>
+    </city>
+  </country>
+  <country>
+    <name>Syria</name>
+    <area>185180</area>
+    <population>15608648</population>
+    <city id="cty-Syria-Damascus">
+      <name>Damascus</name>
+      <longitude>36.3333</longitude>
+      <latitude>33.5</latitude>
+      <population year="87">1500000</population>
+    </city>
+  </country>
+  <country>
+    <name>Lebanon</name>
+    <area>10400</area>
+    <population>3776317</population>
+    <city id="cty-Lebanon-Beirut">
+      <name>Beirut</name>
+      <longitude>35.4667</longitude>
+      <latitude>33.9</latitude>
+      <population year="87">702000</population>
+      <located_at sea="sea-Mittelmeer" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>West Bank</name>
+    <area>5860</area>
+    <population>1427741</population>
+  </country>
+  <country>
+    <name>Japan</name>
+    <area>377835</area>
+    <population>125449703</population>
+    <city id="cty-Japan-Tokyo">
+      <name>Tokyo</name>
+      <longitude>139.767</longitude>
+      <latitude>35.6833</latitude>
+      <population year="95">7843000</population>
+      <located_at sea="sea-Pacific" watertype="sea"/>
+      <located_on island="island-Honshu"/>
+    </city>
+  </country>
+  <country>
+    <name>South Korea</name>
+    <area>98480</area>
+    <population>45482291</population>
+    <city id="cty-cid-cia-South-Korea-2">
+      <name>Seoul</name>
+      <longitude>126.967</longitude>
+      <latitude>37.5667</latitude>
+      <population year="95">10229262</population>
+    </city>
+  </country>
+  <country>
+    <name>Maldives</name>
+    <area>300</area>
+    <population>270758</population>
+    <city id="cty-cid-cia-Maldives-Male">
+      <name>Male</name>
+      <longitude>72</longitude>
+      <latitude>2</latitude>
+      <population year="87">46334</population>
+      <located_at sea="sea-Indic" watertype="sea"/>
+      <located_on island="island-Male"/>
+    </city>
+  </country>
+  <country>
+    <name>Oman</name>
+    <area>212460</area>
+    <population>2186548</population>
+    <city id="cty-cid-cia-Oman-Muscat">
+      <name>Muscat</name>
+      <longitude>58.5</longitude>
+      <latitude>23.5</latitude>
+      <population year="87">30000</population>
+      <located_at sea="sea-GulfOman" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>United Arab Emirates</name>
+    <area>75581</area>
+    <population>3057337</population>
+    <city id="cty-cid-cia-United-Arab-Emirates-3">
+      <name>Abu Dhabi</name>
+      <longitude>54.36</longitude>
+      <latitude>24.27</latitude>
+      <population year="89">363432</population>
+      <located_at sea="sea-Persischer_Golf" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Yemen</name>
+    <area>527970</area>
+    <population>13483178</population>
+    <city id="cty-cid-cia-Yemen-Sanaa">
+      <name>Sanaa</name>
+      <longitude>44.11</longitude>
+      <latitude>15.21</latitude>
+      <population year="87">427185</population>
+    </city>
+  </country>
+  <country>
+    <name>Philippines</name>
+    <area>299764</area>
+    <population>74480848</population>
+    <city id="cty-Philippines-Manila">
+      <name>Manila</name>
+      <longitude>120.983</longitude>
+      <latitude>14.5833</latitude>
+      <population year="95">1655000</population>
+      <located_at sea="sea-SouthChinaSea" watertype="sea"/>
+      <located_on island="island-Luzon"/>
+    </city>
+  </country>
+  <country>
+    <name>Qatar</name>
+    <area>11000</area>
+    <population>547761</population>
+    <city id="cty-cid-cia-Qatar-Doha">
+      <name>Doha</name>
+      <longitude>51</longitude>
+      <latitude>25</latitude>
+      <population year="87">217294</population>
+    </city>
+  </country>
+  <country>
+    <name>Singapore</name>
+    <area>632.6</area>
+    <population>3396924</population>
+    <city id="cty-Singapore-Singapore">
+      <name>Singapore</name>
+      <longitude>103.833</longitude>
+      <latitude>1.3</latitude>
+      <population year="87">2558000</population>
+      <located_at sea="sea-SouthChinaSea" watertype="sea"/>
+      <located_on island="island-Singapore"/>
+    </city>
+  </country>
+  <country>
+    <name>Sri Lanka</name>
+    <area>65610</area>
+    <population>18553074</population>
+    <city id="cty-cid-cia-Sri-Lanka-Colombo">
+      <name>Colombo</name>
+      <longitude>79.8667</longitude>
+      <latitude>6.9</latitude>
+      <population year="87">643000</population>
+      <located_at sea="sea-Indic" watertype="sea"/>
+      <located_on island="island-Sri_Lanka"/>
+    </city>
+  </country>
+  <country>
+    <name>Taiwan</name>
+    <area>36179</area>
+    <population>21465881</population>
+    <city id="cty-Taiwan-Taipei">
+      <name>Taipei</name>
+      <longitude>121.517</longitude>
+      <latitude>25.0333</latitude>
+      <population year="96">2626138</population>
+      <located_on island="island-Taiwan"/>
+    </city>
+  </country>
+  <country>
+    <name>Anguilla</name>
+    <area>102</area>
+    <population>14436</population>
+    <city id="city-The-Valley-AXA-AXA">
+      <name>The Valley</name>
+      <longitude>-63.03</longitude>
+      <latitude>18.13</latitude>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+      <located_on island="island-Anguilla"/>
+    </city>
+  </country>
+  <country>
+    <name>Antigua and Barbuda</name>
+    <area>442</area>
+    <population>65647</population>
+    <city id="cty-cid-cia-Antigua-and-Barbuda-Saint-Johns">
+      <name>Saint Johns</name>
+      <longitude>-61.5</longitude>
+      <latitude>17.3</latitude>
+      <population year="87">36000</population>
+      <located_at sea="sea-Caribbean" watertype="sea"/>
+      <located_on island="island-Antigua"/>
+    </city>
+  </country>
+  <country>
+    <name>Aruba</name>
+    <area>193</area>
+    <population>103065</population>
+    <city id="city-Oranjestad-ARU-ARU">
+      <name>Oranjestad</name>
+      <longitude>-70.02</longitude>
+      <latitude>12.31</latitude>
+      <located_at sea="sea-Caribbean" watertype="sea"/>
+      <located_on island="island-Aruba"/>
+    </city>
+  </country>
+  <country>
+    <name>Bahamas</name>
+    <area>13940</area>
+    <population>259367</population>
+    <city id="cty-Bahamas-Nassau">
+      <name>Nassau</name>
+      <longitude>-77.35</longitude>
+      <latitude>25.0833</latitude>
+      <population year="87">140000</population>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+      <located_on island="island-NewProvidence"/>
+    </city>
+  </country>
+  <country>
+    <name>Barbados</name>
+    <area>430</area>
+    <population>257030</population>
+    <city id="cty-cid-cia-Barbados-Bridgetown">
+      <name>Bridgetown</name>
+      <longitude>-59.4</longitude>
+      <latitude>13.1</latitude>
+      <population year="87">10000</population>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+      <located_on island="island-Barbados"/>
+    </city>
+  </country>
+  <country>
+    <name>Belize</name>
+    <area>22960</area>
+    <population>219296</population>
+    <city id="cty-cid-cia-Belize-Belmopan">
+      <name>Belmopan</name>
+      <longitude>-88.5</longitude>
+      <latitude>17.1</latitude>
+      <population year="87">3000</population>
+    </city>
+  </country>
+  <country>
+    <name>Guatemala</name>
+    <area>108890</area>
+    <population>11277614</population>
+    <city id="cty-Guatemala-Guatemala-City">
+      <name>Guatemala City</name>
+      <longitude>-90.5167</longitude>
+      <latitude>14.6167</latitude>
+      <population year="94">823301</population>
+    </city>
+  </country>
+  <country>
+    <name>Mexico</name>
+    <area>1972550</area>
+    <population>95772462</population>
+    <city id="cty-Mexico-Mexico-City">
+      <name>Mexico City</name>
+      <longitude>-99.2</longitude>
+      <latitude>19.4</latitude>
+      <population year="90">9815795</population>
+    </city>
+  </country>
+  <country>
+    <name>Bermuda</name>
+    <area>53.3</area>
+    <population>67837</population>
+    <city id="city-Hamilton-BERM-BERM">
+      <name>Hamilton</name>
+      <longitude>-64.47</longitude>
+      <latitude>32.17</latitude>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+      <located_on island="island-GrandBermuda"/>
+    </city>
+  </country>
+  <country>
+    <name>British Virgin Islands</name>
+    <area>153</area>
+    <population>24491</population>
+    <city id="city-Road-Town-BVIR-BVIR">
+      <name>Road Town</name>
+      <longitude>-64.37</longitude>
+      <latitude>18.27</latitude>
+      <located_at sea="sea-Caribbean" watertype="sea"/>
+      <located_on island="island-Tortola"/>
+    </city>
+  </country>
+  <country>
+    <name>Canada</name>
+    <area>9976140</area>
+    <population>28820671</population>
+    <city id="cty-cid-cia-Canada-13">
+      <name>Ottawa</name>
+      <longitude>-75.5</longitude>
+      <latitude>45.3</latitude>
+      <population year="91">313987</population>
+    </city>
+  </country>
+  <country>
+    <name>United States</name>
+    <area>9372610</area>
+    <population>266476278</population>
+    <city id="cty-cid-cia-United-States-22">
+      <name>Washington</name>
+      <longitude>-77</longitude>
+      <latitude>38.5</latitude>
+      <population year="90">606900</population>
+      <population year="96">543213</population>
+    </city>
+  </country>
+  <country>
+    <name>Cayman Islands</name>
+    <area>262</area>
+    <population>49035</population>
+    <city id="city-George-Town-CAYM-CAYM">
+      <name>George Town</name>
+      <longitude>-81.23</longitude>
+      <latitude>19.18</latitude>
+      <located_at sea="sea-Caribbean" watertype="sea"/>
+      <located_on island="island-GrandCayman"/>
+    </city>
+  </country>
+  <country>
+    <name>Costa Rica</name>
+    <area>51100</area>
+    <population>3463083</population>
+    <city id="cty-cid-cia-Costa-Rica-2">
+      <name>San Jose</name>
+      <longitude>-84.2</longitude>
+      <latitude>10</latitude>
+      <population year="93">296600</population>
+    </city>
+  </country>
+  <country>
+    <name>Nicaragua</name>
+    <area>129494</area>
+    <population>4272352</population>
+    <city id="cty-Nicaragua-Managua">
+      <name>Managua</name>
+      <longitude>-86.25</longitude>
+      <latitude>12.1667</latitude>
+      <population year="94">1195000</population>
+      <located_at lake="lake-Managua" watertype="lake"/>
+    </city>
+  </country>
+  <country>
+    <name>Panama</name>
+    <area>78200</area>
+    <population>2655094</population>
+    <city id="cty-Panama-Panama-City">
+      <name>Panama City</name>
+      <longitude>-79.55</longitude>
+      <latitude>8.96667</latitude>
+      <population year="90">594800</population>
+      <located_at sea="sea-Pacific" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Cuba</name>
+    <area>110860</area>
+    <population>10951334</population>
+    <city id="cty-Cuba-Havana">
+      <name>Havana</name>
+      <longitude>-82.35</longitude>
+      <latitude>23.1333</latitude>
+      <population year="94">2241000</population>
+      <located_at sea="sea-Golf_von_Mexiko" watertype="sea"/>
+      <located_on island="island-Cuba"/>
+    </city>
+  </country>
+  <country>
+    <name>Dominica</name>
+    <area>746</area>
+    <population>82926</population>
+    <city id="cty-cid-cia-Dominica-Roseau">
+      <name>Roseau</name>
+      <longitude>-61.3</longitude>
+      <latitude>15.2</latitude>
+      <population year="87">11000</population>
+      <located_at sea="sea-Caribbean" watertype="sea"/>
+      <located_on island="island-Dominica"/>
+    </city>
+  </country>
+  <country>
+    <name>Dominican Republic</name>
+    <area>48730</area>
+    <population>8088881</population>
+    <city id="cty-cid-cia-Dominican-Republic-Santo-Domingo">
+      <name>Santo Domingo</name>
+      <longitude>-69.9</longitude>
+      <latitude>18.4833</latitude>
+      <population year="87">1400000</population>
+      <located_at sea="sea-Caribbean" watertype="sea"/>
+      <located_on island="island-Hispaniola"/>
+    </city>
+  </country>
+  <country>
+    <name>Haiti</name>
+    <area>27750</area>
+    <population>6731539</population>
+    <city id="cty-cid-cia-Haiti-Port-au-Prince">
+      <name>Port-au-Prince</name>
+      <longitude>-72.2</longitude>
+      <latitude>18.4</latitude>
+      <population year="87">800000</population>
+      <located_at sea="sea-Caribbean" watertype="sea"/>
+      <located_on island="island-Hispaniola"/>
+    </city>
+  </country>
+  <country>
+    <name>El Salvador</name>
+    <area>21040</area>
+    <population>5828987</population>
+    <city id="cty-cid-cia-El-Salvador-2">
+      <name>San Salvador</name>
+      <longitude>-89.2167</longitude>
+      <latitude>13.7</latitude>
+      <population year="92">422570</population>
+    </city>
+  </country>
+  <country>
+    <name>Honduras</name>
+    <area>112090</area>
+    <population>5605193</population>
+    <city id="cty-Honduras-Tegucigalpa">
+      <name>Tegucigalpa</name>
+      <longitude>-87.2167</longitude>
+      <latitude>14.1</latitude>
+      <population year="91">670100</population>
+    </city>
+  </country>
+  <country>
+    <name>Greenland</name>
+    <area>2175600</area>
+    <population>58203</population>
+    <city id="cty-cid-cia-Greenland-Nuuk">
+      <name>Nuuk</name>
+      <longitude>-51.7</longitude>
+      <latitude>64.2</latitude>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+      <located_on island="island-Greenland"/>
+    </city>
+  </country>
+  <country>
+    <name>Grenada</name>
+    <area>344</area>
+    <population>94961</population>
+    <city id="cty-cid-cia-Grenada-Saint-Georges">
+      <name>Saint Georges</name>
+      <longitude>-61.4</longitude>
+      <latitude>12.4</latitude>
+      <population year="87">30000</population>
+      <located_at sea="sea-Caribbean" watertype="sea"/>
+      <located_on island="island-Grenada"/>
+    </city>
+  </country>
+  <country>
+    <name>Guadeloupe</name>
+    <area>1780</area>
+    <population>407768</population>
+    <city id="cty-cid-cia-GUAD-Basse-Terre">
+      <name>Basse-Terre</name>
+      <longitude>-61.8</longitude>
+      <latitude>16.15</latitude>
+      <located_at sea="sea-Caribbean" watertype="sea"/>
+      <located_on island="island-Basse-Terre"/>
+    </city>
+  </country>
+  <country>
+    <name>Jamaica</name>
+    <area>10991</area>
+    <population>2595275</population>
+    <city id="cty-cid-cia-Jamaica-Kingston">
+      <name>Kingston</name>
+      <longitude>-76.5</longitude>
+      <latitude>18</latitude>
+      <population year="87">101000</population>
+      <located_at sea="sea-Caribbean" watertype="sea"/>
+      <located_on island="island-Jamaica"/>
+    </city>
+  </country>
+  <country>
+    <name>Martinique</name>
+    <area>1128</area>
+    <population>399151</population>
+    <city id="cty-cid-cia-MART-Fort-de-France">
+      <name>Fort-de-France</name>
+      <longitude>-61.0</longitude>
+      <latitude>14.6</latitude>
+      <population year="09">100000</population>
+      <located_at sea="sea-Caribbean" watertype="sea"/>
+      <located_on island="island-Martinique"/>
+    </city>
+  </country>
+  <country>
+    <name>Montserrat</name>
+    <area>102</area>
+    <population>5097</population>
+    <city id="city-Plymouth-MNTS-MNTS">
+      <name>Plymouth</name>
+      <longitude>-62.13</longitude>
+      <latitude>16.42</latitude>
+      <population year="09">0</population>
+      <located_at sea="sea-Caribbean" watertype="sea"/>
+      <located_on island="island-Montserrat"/>
+    </city>
+  </country>
+  <country>
+    <name>Netherlands Antilles</name>
+    <area>960</area>
+    <population>227049</population>
+    <city id="city-Willemstad-NA">
+      <name>Willemstad</name>
+      <longitude>-68.9</longitude>
+      <latitude>12.1</latitude>
+      <population year="09">125000</population>
+      <located_at sea="sea-Caribbean" watertype="sea"/>
+      <located_on island="island-Curacao"/>
+    </city>
+  </country>
+  <country>
+    <name>Saint Martin</name>
+    <area>54</area>
+    <population>29820</population>
+    <city id="city-Marigot-SMAR">
+      <name>Marigot</name>
+      <longitude>-63.1</longitude>
+      <latitude>18.1</latitude>
+      <population year="06">5700</population>
+      <located_at sea="sea-Caribbean" watertype="sea"/>
+      <located_on island="island-StMartin"/>
+    </city>
+  </country>
+  <country>
+    <name>Colombia</name>
+    <area>1138910</area>
+    <population>36813161</population>
+    <city id="cty-Colombia-Bogota">
+      <name>Bogota</name>
+      <longitude>-74.0833</longitude>
+      <latitude>4.6</latitude>
+      <population year="95">5237635</population>
+    </city>
+  </country>
+  <country>
+    <name>Puerto Rico</name>
+    <area>8870</area>
+    <population>3971020</population>
+    <city id="city-San-Juan-PR-PR">
+      <name>San Juan</name>
+      <longitude>-66.12</longitude>
+      <latitude>18.49</latitude>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+      <located_on island="island-PuertoRico"/>
+    </city>
+  </country>
+  <country>
+    <name>Saint Kitts and Nevis</name>
+    <area>269</area>
+    <population>41369</population>
+    <city id="cty-cid-cia-Saint-Kitts-and-Nevis-Basseterre">
+      <name>Basseterre</name>
+      <longitude>-62.3</longitude>
+      <latitude>17</latitude>
+      <population year="87">14700</population>
+      <located_at sea="sea-Caribbean" watertype="sea"/>
+      <located_on island="island-Saint_Kitts"/>
+    </city>
+  </country>
+  <country>
+    <name>Saint Lucia</name>
+    <area>620</area>
+    <population>157862</population>
+    <city id="cty-cid-cia-Saint-Lucia-Castries">
+      <name>Castries</name>
+      <longitude>-60.5</longitude>
+      <latitude>14</latitude>
+      <population year="87">49000</population>
+      <located_at sea="sea-Caribbean" watertype="sea"/>
+      <located_on island="island-Saint_Lucia"/>
+    </city>
+  </country>
+  <country>
+    <name>Saint Pierre and Miquelon</name>
+    <area>242</area>
+    <population>6809</population>
+    <city id="cty-cid-cia-SPMI-Saint-Pierre">
+      <name>Saint-Pierre</name>
+      <longitude>-56</longitude>
+      <latitude>47</latitude>
+      <population year="09">5618</population>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+      <located_on island="island-SaintPierre"/>
+    </city>
+  </country>
+  <country>
+    <name>Saint Vincent and the Grenadines</name>
+    <area>389</area>
+    <population>118344</population>
+    <city id="cty-cid-cia-Saint-Vincent-and-the-Grenadines-Kingstown">
+      <name>Kingstown</name>
+      <longitude>-61.1</longitude>
+      <latitude>13.1</latitude>
+      <population year="87">33694</population>
+      <located_at sea="sea-Caribbean" watertype="sea"/>
+      <located_on island="island-Saint_Vincent"/>
+    </city>
+  </country>
+  <country>
+    <name>Trinidad and Tobago</name>
+    <area>5130</area>
+    <population>1272385</population>
+    <city id="cty-cid-cia-Trinidad-and-Tobago-Port-of-Spain">
+      <name>Port-of-Spain</name>
+      <longitude>-61.2</longitude>
+      <latitude>10.4</latitude>
+      <population year="87">150000</population>
+      <located_at sea="sea-Caribbean" watertype="sea"/>
+      <located_on island="island-Trinidad"/>
+    </city>
+  </country>
+  <country>
+    <name>Turks and Caicos Islands</name>
+    <area>430</area>
+    <population>22942</population>
+    <city id="city-Grand-Turk-TUCA-TUCA">
+      <name>Grand Turk</name>
+      <longitude>-71.08</longitude>
+      <latitude>21.28</latitude>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+      <located_on island="island-GrandTurk"/>
+    </city>
+  </country>
+  <country>
+    <name>Virgin Islands</name>
+    <area>352</area>
+    <population>97120</population>
+    <city id="cty-cid-cia-VIRG-Charlotte-Amalie">
+      <name>Charlotte Amalie</name>
+      <longitude>-64.9</longitude>
+      <latitude>18.3</latitude>
+      <located_at sea="sea-Caribbean" watertype="sea"/>
+      <located_on island="island-SaintThomas"/>
+    </city>
+  </country>
+  <country>
+    <name>American Samoa</name>
+    <area>199</area>
+    <population>65628</population>
+    <city id="city-Pago-Pago-AMSA-AMSA">
+      <name>Pago Pago</name>
+      <longitude>-170.42</longitude>
+      <latitude>-14.16</latitude>
+      <located_at sea="sea-Pacific" watertype="sea"/>
+      <located_on island="island-Tutuila"/>
+    </city>
+  </country>
+  <country>
+    <name>Australia</name>
+    <area>7686850</area>
+    <population>18260863</population>
+    <city id="cty-cid-cia-Australia-8">
+      <name>Canberra</name>
+      <longitude>149.08</longitude>
+      <latitude>-35.1</latitude>
+      <population year="90">310000</population>
+      <located_at lake="lake-LakeBurleyGriffin" watertype="lake"/>
+      <located_at river="river-MurrumbidgeeRiver" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Cook Islands</name>
+    <area>240</area>
+    <population>11870</population>
+    <city id="city-Avarua-COOK-COOK">
+      <name>Avarua</name>
+      <longitude>-159.46</longitude>
+      <latitude>-21.12</latitude>
+      <located_at sea="sea-Pacific" watertype="sea"/>
+      <located_on island="island-Rarotonga"/>
+    </city>
+  </country>
+  <country>
+    <name>Fiji</name>
+    <area>18270</area>
+    <population>782381</population>
+    <city id="cty-cid-cia-Fiji-Suva">
+      <name>Suva</name>
+      <longitude>178</longitude>
+      <latitude>-19</latitude>
+      <population year="87">69481</population>
+      <located_at sea="sea-Pacific" watertype="sea"/>
+      <located_on island="island-VitiLevu"/>
+    </city>
+  </country>
+  <country>
+    <name>French Polynesia</name>
+    <area>4167</area>
+    <population>287032</population>
+    <city id="city-Papeete-FPOL-FPOL">
+      <name>Papeete</name>
+      <longitude>-149.34</longitude>
+      <latitude>-17.32</latitude>
+      <located_at sea="sea-Pacific" watertype="sea"/>
+      <located_on island="island-Tahiti"/>
+    </city>
+  </country>
+  <country>
+    <name>Guam</name>
+    <area>541.3</area>
+    <population>178430</population>
+    <city id="city-Agana-GUAM">
+      <name>Agana</name>
+      <longitude>144.44</longitude>
+      <latitude>13.28</latitude>
+      <located_at sea="sea-Pacific" watertype="sea"/>
+      <located_on island="island-Guam"/>
+    </city>
+  </country>
+  <country>
+    <name>Kiribati</name>
+    <area>717</area>
+    <population>80919</population>
+    <city id="cty-cid-cia-Kiribati-Tarawa">
+      <name>Tarawa</name>
+      <longitude>173</longitude>
+      <latitude>1.4</latitude>
+      <population year="87">2100</population>
+      <located_at sea="sea-Pacific" watertype="sea"/>
+      <located_on island="island-Tarawa"/>
+    </city>
+  </country>
+  <country>
+    <name>Marshall Islands</name>
+    <area>181.3</area>
+    <population>58363</population>
+    <city id="cty-cid-cia-Marshall-Islands-Majuro">
+      <name>Majuro</name>
+      <longitude>171.3</longitude>
+      <latitude>7.1</latitude>
+      <population year="87">7600</population>
+      <located_at sea="sea-Pacific" watertype="sea"/>
+      <located_on island="island-Majuro"/>
+    </city>
+  </country>
+  <country>
+    <name>Micronesia</name>
+    <area>702</area>
+    <population>125377</population>
+    <city id="cty-cid-cia-Micronesia-Palikir">
+      <name>Palikir</name>
+      <longitude>158.15</longitude>
+      <latitude>6.9</latitude>
+      <population year="09">6444</population>
+      <located_at sea="sea-Pacific" watertype="sea"/>
+      <located_on island="island-Ponape"/>
+    </city>
+  </country>
+  <country>
+    <name>Nauru</name>
+    <area>21</area>
+    <population>10273</population>
+    <city id="cty-cid-cia-Yaren">
+      <name>Yaren</name>
+      <longitude>167</longitude>
+      <latitude>-1</latitude>
+      <located_at sea="sea-Pacific" watertype="sea"/>
+      <located_on island="island-Nauru"/>
+    </city>
+  </country>
+  <country>
+    <name>New Caledonia</name>
+    <area>19060</area>
+    <population>227436</population>
+    <city id="cty-cid-cia-New-Caledonia-Noumea">
+      <name>Noumea</name>
+      <longitude>166.27</longitude>
+      <latitude>-22.16</latitude>
+      <located_at sea="sea-Pacific" watertype="sea"/>
+      <located_on island="island-GrandeTerre"/>
+    </city>
+  </country>
+  <country>
+    <name>New Zealand</name>
+    <area>268680</area>
+    <population>3547983</population>
+    <city id="cty-cid-cia-New-Zealand-Wellington">
+      <name>Wellington</name>
+      <longitude>174.767</longitude>
+      <latitude>-41.2833</latitude>
+      <population year="87">352030</population>
+      <located_at sea="sea-Pacific" watertype="sea"/>
+      <located_on island="island-TeIkaAMaui"/>
+    </city>
+  </country>
+  <country>
+    <name>Niue</name>
+    <area>260</area>
+    <population>1398</population>
+    <city id="city-Alofi-NIUE-NIUE">
+      <name>Alofi</name>
+      <longitude>-169.9</longitude>
+      <latitude>-19.05</latitude>
+      <located_at sea="sea-Pacific" watertype="sea"/>
+      <located_on island="island-Niue"/>
+    </city>
+  </country>
+  <country>
+    <name>Norfolk Island</name>
+    <area>34.6</area>
+    <population>2209</population>
+    <city id="cty-cid-cia-NORF-Kingston">
+      <name>Kingston</name>
+      <longitude>168</longitude>
+      <latitude>-29</latitude>
+      <located_at sea="sea-Pacific" watertype="sea"/>
+      <located_on island="island-Norfolk"/>
+    </city>
+  </country>
+  <country>
+    <name>Northern Mariana Islands</name>
+    <area>477</area>
+    <population>88662</population>
+    <city id="city-Saipan-NMIS-NMIS">
+      <name>Saipan</name>
+      <longitude>145.45</longitude>
+      <latitude>15.12</latitude>
+      <located_at sea="sea-Pacific" watertype="sea"/>
+      <located_on island="island-Saipan"/>
+    </city>
+  </country>
+  <country>
+    <name>Palau</name>
+    <area>458</area>
+    <population>16952</population>
+    <city id="cty-cid-cia-Palau-Melekeok">
+      <name>Melekeok</name>
+      <longitude>134.6</longitude>
+      <latitude>7.5</latitude>
+      <population year="09">391</population>
+      <located_at sea="sea-Pacific" watertype="sea"/>
+      <located_on island="island-Babelthuap"/>
+    </city>
+  </country>
+  <country>
+    <name>Pitcairn Islands</name>
+    <area>47</area>
+    <population>48</population>
+    <city id="city-Adamstown-PITC-PITC">
+      <name>Adamstown</name>
+      <longitude>-130.05</longitude>
+      <latitude>-25.04</latitude>
+      <located_at sea="sea-Pacific" watertype="sea"/>
+      <located_on island="island-Pitcairn"/>
+    </city>
+  </country>
+  <country>
+    <name>Solomon Islands</name>
+    <area>28450</area>
+    <population>412902</population>
+    <city id="cty-cid-cia-Solomon-Islands-Honiara">
+      <name>Honiara</name>
+      <longitude>160</longitude>
+      <latitude>-9.5</latitude>
+      <population year="87">26000</population>
+      <located_at sea="sea-Pacific" watertype="sea"/>
+      <located_on island="island-Guadalcanal"/>
+    </city>
+  </country>
+  <country>
+    <name>Tonga</name>
+    <area>748</area>
+    <population>106466</population>
+    <city id="cty-cid-cia-Tonga-Nukualofa">
+      <name>Nukualofa</name>
+      <longitude>-175.2</longitude>
+      <latitude>-21.1</latitude>
+      <population year="87">28899</population>
+      <located_at sea="sea-Pacific" watertype="sea"/>
+      <located_on island="island-Tongatapu"/>
+    </city>
+  </country>
+  <country>
+    <name>Tuvalu</name>
+    <area>26</area>
+    <population>10146</population>
+    <city id="cty-cid-cia-Tuvalu-Funafuti">
+      <name>Funafuti</name>
+      <longitude>178</longitude>
+      <latitude>-8</latitude>
+      <population year="87">2120</population>
+      <located_at sea="sea-Pacific" watertype="sea"/>
+      <located_on island="island-Fongafale"/>
+    </city>
+  </country>
+  <country>
+    <name>Vanuatu</name>
+    <area>14760</area>
+    <population>177504</population>
+    <city id="cty-cid-cia-Vanuatu-Port-Vila">
+      <name>Port-Vila</name>
+      <longitude>168.3</longitude>
+      <latitude>-17.75</latitude>
+      <population year="87">15759</population>
+      <located_at sea="sea-Pacific" watertype="sea"/>
+      <located_on island="island-Efate"/>
+    </city>
+  </country>
+  <country>
+    <name>Wallis and Futuna</name>
+    <area>274</area>
+    <population>15289</population>
+    <city id="city-Mata-Utu-WAFU-WAFU">
+      <name>Mata-Utu</name>
+      <longitude>-171.56</longitude>
+      <latitude>-13.57</latitude>
+      <located_at sea="sea-Pacific" watertype="sea"/>
+      <located_on island="island-Uvea"/>
+    </city>
+  </country>
+  <country>
+    <name>Samoa</name>
+    <area>2860</area>
+    <population>214384</population>
+    <city id="cty-cid-cia-Samoa-Apia">
+      <name>Apia</name>
+      <longitude>-171</longitude>
+      <latitude>-12</latitude>
+      <population year="87">36000</population>
+      <located_at sea="sea-Pacific" watertype="sea"/>
+      <located_on island="island-Upolu"/>
+    </city>
+  </country>
+  <country>
+    <name>Argentina</name>
+    <area>2766890</area>
+    <population>34672997</population>
+    <city id="cty-Argentina-Buenos-Aires">
+      <name>Buenos Aires</name>
+      <longitude>-58.4833</longitude>
+      <latitude>-34.5833</latitude>
+      <population year="91">2988006</population>
+      <located_at river="river-Parana" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Bolivia</name>
+    <area>1098580</area>
+    <population>7165257</population>
+    <city id="cty-Bolivia-La-Paz">
+      <name>La Paz</name>
+      <longitude>-68.15</longitude>
+      <latitude>-16.5</latitude>
+      <population year="87">953400</population>
+    </city>
+  </country>
+  <country>
+    <name>Brazil</name>
+    <area>8511965</area>
+    <population>162661214</population>
+    <city id="cty-Brazil-Brasilia">
+      <name>Brasilia</name>
+      <longitude>-47.9167</longitude>
+      <latitude>-15.8667</latitude>
+      <population year="96">1817001</population>
+    </city>
+  </country>
+  <country>
+    <name>Chile</name>
+    <area>756950</area>
+    <population>14333258</population>
+    <city id="cty-Chile-Santiago">
+      <name>Santiago</name>
+      <longitude>-70.7</longitude>
+      <latitude>-33.45</latitude>
+      <population year="87">4318000</population>
+    </city>
+  </country>
+  <country>
+    <name>Paraguay</name>
+    <area>406750</area>
+    <population>5504146</population>
+    <city id="cty-cid-cia-Paraguay-Asuncion">
+      <name>Asuncion</name>
+      <longitude>-57.3</longitude>
+      <latitude>-25.5</latitude>
+      <population year="87">729307</population>
+      <located_at river="river-Paraguay" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Uruguay</name>
+    <area>176220</area>
+    <population>3238952</population>
+    <city id="cty-Uruguay-Montevideo">
+      <name>Montevideo</name>
+      <longitude>-56.2167</longitude>
+      <latitude>-34.85</latitude>
+      <population year="87">1247000</population>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Peru</name>
+    <area>1285220</area>
+    <population>24523408</population>
+    <city id="cty-Peru-Lima">
+      <name>Lima</name>
+      <longitude>-77.05</longitude>
+      <latitude>-12.0833</latitude>
+      <population year="93">6321173</population>
+    </city>
+  </country>
+  <country>
+    <name>French Guiana</name>
+    <area>91000</area>
+    <population>151187</population>
+    <city id="cty-cid-cia-French-Guiana-Cayenne">
+      <name>Cayenne</name>
+      <longitude>-52.45</longitude>
+      <latitude>4.93333</latitude>
+      <population year="87">38155</population>
+    </city>
+  </country>
+  <country>
+    <name>Guyana</name>
+    <area>214970</area>
+    <population>712091</population>
+    <city id="cty-Guyana-Georgetown">
+      <name>Georgetown</name>
+      <longitude>-58.2</longitude>
+      <latitude>6.83333</latitude>
+      <population year="87">170000</population>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Suriname</name>
+    <area>163270</area>
+    <population>436418</population>
+    <city id="cty-cid-cia-Suriname-Paramaribo">
+      <name>Paramaribo</name>
+      <longitude>-55.15</longitude>
+      <latitude>5.81667</latitude>
+      <population year="87">150000</population>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Venezuela</name>
+    <area>912050</area>
+    <population>21983188</population>
+    <city id="cty-Venezuela-Caracas">
+      <name>Caracas</name>
+      <longitude>-66.9333</longitude>
+      <latitude>10.5</latitude>
+      <population year="90">1822465</population>
+    </city>
+  </country>
+  <country>
+    <name>Ecuador</name>
+    <area>283560</area>
+    <population>11466291</population>
+    <city id="cty-cid-cia-Ecuador-Quito">
+      <name>Quito</name>
+      <longitude>-78.5333</longitude>
+      <latitude>-0.216667</latitude>
+      <population year="87">1200000</population>
+    </city>
+  </country>
+  <country>
+    <name>Falkland Islands</name>
+    <area>12173</area>
+    <population>3140</population>
+    <city id="city-Stanley-FALK-FALK">
+      <name>Stanley</name>
+      <longitude>-57.51</longitude>
+      <latitude>-51.42</latitude>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+      <located_on island="island-EastFalkland"/>
+    </city>
+  </country>
+  <country>
+    <name>Algeria</name>
+    <area>2381740</area>
+    <population>29183032</population>
+    <city id="cty-Algeria-Algiers">
+      <name>Algier</name>
+      <longitude>3.05</longitude>
+      <latitude>36.7667</latitude>
+      <population year="87">1507241</population>
+      <located_at sea="sea-Mittelmeer" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Libya</name>
+    <area>1759540</area>
+    <population>5445436</population>
+    <city id="cty-cid-cia-Libya-Tripoli">
+      <name>Tripoli</name>
+      <longitude>22.3</longitude>
+      <latitude>37.3</latitude>
+      <located_at sea="sea-Mittelmeer" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Mali</name>
+    <area>1240000</area>
+    <population>9653261</population>
+    <city id="cty-cid-cia-Mali-Bamako">
+      <name>Bamako</name>
+      <longitude>-7.6</longitude>
+      <latitude>12.3</latitude>
+      <located_at river="river-Niger" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Mauritania</name>
+    <area>1030700</area>
+    <population>2336048</population>
+    <city id="cty-cid-cia-Mauritania-Nouakchott">
+      <name>Nouakchott</name>
+      <longitude>-16</longitude>
+      <latitude>18</latitude>
+    </city>
+  </country>
+  <country>
+    <name>Morocco</name>
+    <area>446550</area>
+    <population>29779156</population>
+    <city id="cty-cid-cia-Morocco-3">
+      <name>Rabat</name>
+      <longitude>-6.5</longitude>
+      <latitude>33.6</latitude>
+      <population year="94">1385872</population>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Niger</name>
+    <area>1267000</area>
+    <population>9113001</population>
+    <city id="cty-cid-cia-Niger-Niamey">
+      <name>Niamey</name>
+      <longitude>2.1</longitude>
+      <latitude>13.2</latitude>
+      <located_at river="river-Niger" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Tunisia</name>
+    <area>163610</area>
+    <population>9019687</population>
+    <city id="cty-Tunisia-Tunis">
+      <name>Tunis</name>
+      <longitude>10.2</longitude>
+      <latitude>36.7833</latitude>
+      <located_at sea="sea-Mittelmeer" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Western Sahara</name>
+    <area>266000</area>
+    <population>222631</population>
+    <city id="stadt-El_Aaiun-DARS-DARS">
+      <name>El Aaiun</name>
+      <longitude>-13.2</longitude>
+      <latitude>27.05</latitude>
+    </city>
+  </country>
+  <country>
+    <name>Angola</name>
+    <area>1246700</area>
+    <population>10342899</population>
+    <city id="cty-cid-cia-Angola-Luanda">
+      <name>Luanda</name>
+      <longitude>13.2</longitude>
+      <latitude>-8.6</latitude>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Congo</name>
+    <area>342000</area>
+    <population>2527841</population>
+    <city id="cty-Congo-Brazzaville">
+      <name>Brazzaville</name>
+      <longitude>15.25</longitude>
+      <latitude>-4.25</latitude>
+      <located_at river="river-Zaire" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Namibia</name>
+    <area>825418</area>
+    <population>1677243</population>
+    <city id="cty-cid-cia-Namibia-Windhoek">
+      <name>Windhoek</name>
+      <longitude>17.2</longitude>
+      <latitude>-22.3</latitude>
+    </city>
+  </country>
+  <country>
+    <name>Zaire</name>
+    <area>2345410</area>
+    <population>46498539</population>
+    <city id="cty-cid-cia-Zaire-2">
+      <name>Kinshasa</name>
+      <longitude>15.2</longitude>
+      <latitude>-4.3</latitude>
+      <population year="94">4655313</population>
+      <located_at river="river-Zaire" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Zambia</name>
+    <area>752610</area>
+    <population>9159072</population>
+    <city id="cty-cid-cia-Zambia-2">
+      <name>Lusaka</name>
+      <longitude>28.2</longitude>
+      <latitude>-15.3</latitude>
+      <population year="90">982362</population>
+    </city>
+  </country>
+  <country>
+    <name>Benin</name>
+    <area>112620</area>
+    <population>5709529</population>
+    <city id="cty-cid-cia-Benin-Porto-Novo">
+      <name>Porto-Novo</name>
+      <longitude>2.4</longitude>
+      <latitude>6.3</latitude>
+    </city>
+  </country>
+  <country>
+    <name>Burkina Faso</name>
+    <area>274200</area>
+    <population>10623323</population>
+    <city id="cty-cid-cia-Burkina-Faso-Ouagadougou">
+      <name>Ouagadougou</name>
+      <longitude>-2</longitude>
+      <latitude>12</latitude>
+    </city>
+  </country>
+  <country>
+    <name>Nigeria</name>
+    <area>923770</area>
+    <population>103912489</population>
+    <city id="cty-cid-cia-Nigeria-Abuja">
+      <name>Abuja</name>
+      <longitude>7.5</longitude>
+      <latitude>9.05</latitude>
+      <population year="07">182418</population>
+    </city>
+  </country>
+  <country>
+    <name>Togo</name>
+    <area>56790</area>
+    <population>4570530</population>
+    <city id="cty-cid-cia-Togo-Lome">
+      <name>Lome</name>
+      <longitude>1.1</longitude>
+      <latitude>6.1</latitude>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Botswana</name>
+    <area>600370</area>
+    <population>1477630</population>
+    <city id="cty-cid-cia-Botswana-Gaborone">
+      <name>Gaborone</name>
+      <longitude>25.6</longitude>
+      <latitude>-24.5</latitude>
+    </city>
+  </country>
+  <country>
+    <name>South Africa</name>
+    <area>1219912</area>
+    <population>41743459</population>
+    <city id="cty-cid-cia-South-Africa-6">
+      <name>Pretoria</name>
+      <longitude>28.2333</longitude>
+      <latitude>-25.75</latitude>
+      <population year="91">526000</population>
+    </city>
+  </country>
+  <country>
+    <name>Zimbabwe</name>
+    <area>390580</area>
+    <population>11271314</population>
+    <city id="cty-cid-cia-Zimbabwe-Harare">
+      <name>Harare</name>
+      <longitude>31.2</longitude>
+      <latitude>-17.5</latitude>
+    </city>
+  </country>
+  <country>
+    <name>Cote dIvoire</name>
+    <area>322460</area>
+    <population>14762445</population>
+    <city id="cty-cid-cia-Cote-dIvoire-Yamoussoukro">
+      <name>Yamoussoukro</name>
+      <longitude>-5.3</longitude>
+      <latitude>6.8</latitude>
+      <population year="05">200659</population>
+    </city>
+  </country>
+  <country>
+    <name>Ghana</name>
+    <area>238540</area>
+    <population>17698271</population>
+    <city id="cty-Ghana-Accra">
+      <name>Accra</name>
+      <longitude>-0.2</longitude>
+      <latitude>5.55</latitude>
+      <population year="84">867459</population>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Burundi</name>
+    <area>27830</area>
+    <population>5943057</population>
+    <city id="cty-cid-cia-Burundi-Bujumbura">
+      <name>Bujumbura</name>
+      <longitude>29</longitude>
+      <latitude>-4</latitude>
+      <located_at lake="lake-Tanganjikasee" watertype="lake"/>
+    </city>
+  </country>
+  <country>
+    <name>Rwanda</name>
+    <area>26340</area>
+    <population>6853359</population>
+    <city id="cty-cid-cia-Rwanda-Kigali">
+      <name>Kigali</name>
+      <longitude>29.6</longitude>
+      <latitude>-1.6</latitude>
+    </city>
+  </country>
+  <country>
+    <name>Tanzania</name>
+    <area>945090</area>
+    <population>29058470</population>
+    <city id="cty-Tanzania-Dar-es-Salaam">
+      <name>Dar es Salaam</name>
+      <longitude>39.3</longitude>
+      <latitude>-6.83333</latitude>
+      <population year="88">1360850</population>
+      <located_at sea="sea-Indic" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Cameroon</name>
+    <area>475440</area>
+    <population>14261557</population>
+    <city id="cty-cid-cia-Cameroon-3">
+      <name>Yaounde</name>
+      <longitude>12</longitude>
+      <latitude>3.5</latitude>
+      <population year="91">750000</population>
+    </city>
+  </country>
+  <country>
+    <name>Central African Republic</name>
+    <area>622980</area>
+    <population>3274426</population>
+    <city id="cty-cid-cia-Central-African-Republic-Bangui">
+      <name>Bangui</name>
+      <longitude>18.5</longitude>
+      <latitude>4.3</latitude>
+      <located_at river="river-Ubangi" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Chad</name>
+    <area>1284000</area>
+    <population>6976845</population>
+    <city id="cty-cid-cia-Chad-NDjamena">
+      <name>NDjamena</name>
+      <longitude>15</longitude>
+      <latitude>12</latitude>
+      <located_at river="river-Schari" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Equatorial Guinea</name>
+    <area>28050</area>
+    <population>431282</population>
+    <city id="cty-cid-cia-Equatorial-Guinea-Malabo">
+      <name>Malabo</name>
+      <longitude>9</longitude>
+      <latitude>4</latitude>
+      <population year="87">33000</population>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+      <located_on island="island-Bioko"/>
+    </city>
+  </country>
+  <country>
+    <name>Gabon</name>
+    <area>267670</area>
+    <population>1172798</population>
+    <city id="cty-cid-cia-Gabon-Libreville">
+      <name>Libreville</name>
+      <longitude>9.3</longitude>
+      <latitude>0.3</latitude>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Cape Verde</name>
+    <area>4030</area>
+    <population>449066</population>
+    <city id="cty-cid-cia-Cape-Verde-Praia">
+      <name>Praia</name>
+      <longitude>-23</longitude>
+      <latitude>16</latitude>
+      <population>105000</population>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+      <located_on island="island-Santiago"/>
+    </city>
+  </country>
+  <country>
+    <name>Sudan</name>
+    <area>2505810</area>
+    <population>31547543</population>
+    <city id="cty-Sudan-Khartoum">
+      <name>Khartoum</name>
+      <longitude>32.55</longitude>
+      <latitude>15.6167</latitude>
+      <population year="93">924505</population>
+      <located_at river="river-Nil" watertype="river"/>
+      <located_at river="river-Blauer_Nil" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Comoros</name>
+    <area>2170</area>
+    <population>569237</population>
+    <city id="cty-cid-cia-Comoros-Moroni">
+      <name>Moroni</name>
+      <longitude>43</longitude>
+      <latitude>-12</latitude>
+      <located_at sea="sea-Indic" watertype="sea"/>
+      <located_on island="island-Gr_Komoro"/>
+    </city>
+  </country>
+  <country>
+    <name>Guinea</name>
+    <area>245860</area>
+    <population>7411981</population>
+    <city id="cty-cid-cia-Guinea-Conakry">
+      <name>Conakry</name>
+      <longitude>-13.5</longitude>
+      <latitude>9.3</latitude>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Liberia</name>
+    <area>111370</area>
+    <population>2109789</population>
+    <city id="cty-Liberia-Monrovia">
+      <name>Monrovia</name>
+      <longitude>-10.8</longitude>
+      <latitude>6.3</latitude>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Djibouti</name>
+    <area>22000</area>
+    <population>427642</population>
+    <city id="cty-cid-cia-Djibouti-Djibouti">
+      <name>Djibouti</name>
+      <longitude>43.1</longitude>
+      <latitude>11.5</latitude>
+      <located_at sea="sea-Golf_von_Aden" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Eritrea</name>
+    <area>121320</area>
+    <population>3427883</population>
+    <city id="cty-Eritrea-Asmara">
+      <name>Asmara</name>
+      <longitude>38.9167</longitude>
+      <latitude>15.2833</latitude>
+    </city>
+  </country>
+  <country>
+    <name>Ethiopia</name>
+    <area>1127127</area>
+    <population>57171662</population>
+    <city id="cty-Ethiopia-Addis-Ababa">
+      <name>Addis Ababa</name>
+      <longitude>38.75</longitude>
+      <latitude>9</latitude>
+      <population year="94">2316400</population>
+    </city>
+  </country>
+  <country>
+    <name>Somalia</name>
+    <area>637660</area>
+    <population>9639151</population>
+    <city id="cty-cid-cia-Somalia-Mogadishu">
+      <name>Mogadishu</name>
+      <longitude>45.3</longitude>
+      <latitude>2.2</latitude>
+      <located_at sea="sea-Indic" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Kenya</name>
+    <area>582650</area>
+    <population>28176686</population>
+    <city id="cty-Kenya-Nairobi">
+      <name>Nairobi</name>
+      <longitude>36.8</longitude>
+      <latitude>-1.26667</latitude>
+      <population year="89">1346000</population>
+      <population year="91">2000000</population>
+    </city>
+  </country>
+  <country>
+    <name>Gambia</name>
+    <area>11300</area>
+    <population>1204984</population>
+    <city id="cty-cid-cia-Gambia-Banjul">
+      <name>Banjul</name>
+      <longitude>-17</longitude>
+      <latitude>13.5</latitude>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+      <located_at river="river-Gambia" watertype="river"/>
+    </city>
+  </country>
+  <country>
+    <name>Senegal</name>
+    <area>196190</area>
+    <population>9092749</population>
+    <city id="cty-Senegal-Dakar">
+      <name>Dakar</name>
+      <longitude>-17.4833</longitude>
+      <latitude>14.7</latitude>
+      <population year="85">1382000</population>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Guinea-Bissau</name>
+    <area>36120</area>
+    <population>1151330</population>
+    <city id="cty-cid-cia-Guinea-Bissau-Bissau">
+      <name>Bissau</name>
+      <longitude>-15.5</longitude>
+      <latitude>11.5</latitude>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Sierra Leone</name>
+    <area>71740</area>
+    <population>4793121</population>
+    <city id="cty-cid-cia-Sierra-Leone-Freetown">
+      <name>Freetown</name>
+      <longitude>-13.1</longitude>
+      <latitude>8.2</latitude>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Uganda</name>
+    <area>236040</area>
+    <population>20158176</population>
+    <city id="cty-cid-cia-Uganda-Kampala">
+      <name>Kampala</name>
+      <longitude>32.3</longitude>
+      <latitude>0.2</latitude>
+      <located_at lake="lake-Victoriasee" watertype="lake"/>
+    </city>
+  </country>
+  <country>
+    <name>Lesotho</name>
+    <area>30350</area>
+    <population>1970781</population>
+    <city id="cty-cid-cia-Lesotho-Maseru">
+      <name>Maseru</name>
+      <longitude>27.5</longitude>
+      <latitude>-29.3</latitude>
+      <population year="87">75000</population>
+    </city>
+  </country>
+  <country>
+    <name>Madagascar</name>
+    <area>587041</area>
+    <population>13670507</population>
+    <city id="cty-cid-cia-Madagascar-2">
+      <name>Antananarivo</name>
+      <longitude>47.4</longitude>
+      <latitude>-18.6</latitude>
+      <population year="88">1250000</population>
+      <located_on island="island-Madagaskar"/>
+    </city>
+  </country>
+  <country>
+    <name>Malawi</name>
+    <area>118480</area>
+    <population>9452844</population>
+    <city id="cty-cid-cia-Malawi-Lilongwe">
+      <name>Lilongwe</name>
+      <longitude>34</longitude>
+      <latitude>-14</latitude>
+    </city>
+  </country>
+  <country>
+    <name>Mozambique</name>
+    <area>801590</area>
+    <population>17877927</population>
+    <city id="cty-cid-cia-Mozambique-2">
+      <name>Maputo</name>
+      <longitude>33</longitude>
+      <latitude>-26</latitude>
+      <population year="91">931591</population>
+      <located_at sea="sea-Indic" watertype="sea"/>
+    </city>
+  </country>
+  <country>
+    <name>Mauritius</name>
+    <area>2040</area>
+    <population>1140256</population>
+    <city id="cty-cid-cia-Mauritius-Port-Louis">
+      <name>Port Louis</name>
+      <longitude>57.3</longitude>
+      <latitude>-20.3</latitude>
+      <located_at sea="sea-Indic" watertype="sea"/>
+      <located_on island="island-Mauritius"/>
+    </city>
+  </country>
+  <country>
+    <name>Mayotte</name>
+    <area>374</area>
+    <population>223765</population>
+    <city id="city-Mamoutzou-MAYO-MAYO">
+      <name>Mamoutzou</name>
+      <longitude>45.13</longitude>
+      <latitude>-12.46</latitude>
+      <located_at sea="sea-Indic" watertype="sea"/>
+      <located_on island="island-Mayotte"/>
+    </city>
+  </country>
+  <country>
+    <name>Swaziland</name>
+    <area>17360</area>
+    <population>998730</population>
+    <city id="cty-cid-cia-Swaziland-Mbabane">
+      <name>Mbabane</name>
+      <longitude>31.1</longitude>
+      <latitude>-25</latitude>
+    </city>
+  </country>
+  <country>
+    <name>Reunion</name>
+    <area>2510</area>
+    <population>679198</population>
+    <city id="city-Saint-Denis-REUN-REUN">
+      <name>Saint-Denis</name>
+      <longitude>55.5</longitude>
+      <latitude>-20.9</latitude>
+      <population year="09">158139</population>
+      <located_at sea="sea-Indic" watertype="sea"/>
+      <located_on island="island-Reunion"/>
+    </city>
+  </country>
+  <country>
+    <name>Saint Helena</name>
+    <area>413</area>
+    <population>7637</population>
+    <city id="city-Jamestown-HELX-HELX">
+      <name>Jamestown</name>
+      <longitude>-5.44</longitude>
+      <latitude>-15.56</latitude>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+      <located_on island="island-SaintHelena"/>
+    </city>
+  </country>
+  <country>
+    <name>Sao Tome and Principe</name>
+    <area>1001</area>
+    <population>144128</population>
+    <city id="cty-cid-cia-Sao-Tome-and-Principe-Sao-Tome">
+      <name>Sao Tome</name>
+      <longitude>7</longitude>
+      <latitude>0</latitude>
+      <located_at sea="sea-Atlantic" watertype="sea"/>
+      <located_on island="island-Sao_Tome"/>
+    </city>
+  </country>
+  <country>
+    <name>Seychelles</name>
+    <area>455</area>
+    <population>77575</population>
+    <city id="cty-cid-cia-Seychelles-Victoria">
+      <name>Victoria</name>
+      <longitude>55.5</longitude>
+      <latitude>-4.65</latitude>
+      <population>24570</population>
+      <located_at sea="sea-Indic" watertype="sea"/>
+      <located_on island="island-Mahe"/>
+    </city>
+  </country>
+</mondial>

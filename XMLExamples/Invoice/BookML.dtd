@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ENTITY % dateAttr " year CDATA #REQUIRED
+					month (01|02|03|04|05|06|07|08|09|10|11|12) #REQUIRED
+					day CDATA #REQUIRED">
+
+<!ENTITY % bookAttr "id ID #REQUIRED
+		       		categories IDREFS #REQUIRED">
+
+<!ENTITY % commonBookInfo1 "title, author+, publisher, publishDate, price, discountRate">		
+	
+<!ENTITY % commonBookInfo2 "pages, rating, category+, coverImage?, description?, review">	
+
+<!ELEMENT catalog (bookList,bookCategory)>
+<!ELEMENT bookList (book*, eBook*, newEbook*)>
+
+<!ELEMENT book (%commonBookInfo1;,revisionDate*,%commonBookInfo2;)>
+<!ELEMENT eBook (%commonBookInfo1;, originalTitle, translator, revisionDate*, %commonBookInfo2;, format, size, period)>
+<!ELEMENT newEbook (%commonBookInfo1;, originalTitle, translator, %commonBookInfo2;, format, size, period)>
+
+<!ATTLIST book %bookAttr;>
+<!ATTLIST eBook %bookAttr;>
+<!ATTLIST newEbook %bookAttr;>
+
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT originalTitle (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT translator (#PCDATA)>
+<!ELEMENT publisher (#PCDATA)>
+
+<!ELEMENT publishDate (#PCDATA)>
+<!ATTLIST publishDate %dateAttr;>
+<!ELEMENT revisionDate (#PCDATA)>
+<!ATTLIST revisionDate %dateAttr;>
+
+<!ELEMENT price (listPrice, salesPrice)>
+<!ATTLIST price currency (won|dollar|yen) "won"
+				listPrice CDATA #REQUIRED
+				salesPrice CDATA #REQUIRED>
+<!ELEMENT listPrice (#PCDATA)>
+<!ELEMENT salesPrice (#PCDATA)>
+<!ATTLIST salesPrice discountRate CDATA #REQUIRED>	
+			
+<!ELEMENT discountRate (#PCDATA)>	
+<!ELEMENT pages (#PCDATA)>	
+<!ELEMENT rating (#PCDATA)>
+
+<!ELEMENT bookCategory (category*)> 
+<!ELEMENT category (category*)>
+<!ATTLIST category cid ID #REQUIRED
+				   name CDATA #REQUIRED>
+				   
+<!NOTATION jpeg PUBLIC "image/jpeg" "imageViewer.exe">
+<!NOTATION gif PUBLIC "image/gif" "photoViewer.exe">
+<!ELEMENT coverImage (#PCDATA)>
+<!ATTLIST coverImage src CDATA #REQUIRED
+					type NOTATION (gif|jpeg) "jpeg">	
+					
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT review (#PCDATA)>								   
+<!ELEMENT format (#PCDATA)>
+<!ATTLIST format value (EPUB|PDF|StremText|StreamImage) "EPUB">
+<!ELEMENT size (#PCDATA)>
+<!ATTLIST size unit CDATA #REQUIRED>
+<!ELEMENT period (#PCDATA)>
+

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<link rel="stylesheet" type="text/css" href="css/top5.css" />
+	<script	src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+	<script type="text/javascript" src="js/top5.js"></script>	
+	<title>Top 5 CD Recommendations</title>	
+</head>
+
+<body>	<!-- onLoad="addOnClickHandlers();">  -->
+	<div id="instructions">
+		Click on a CD cover to add it to the Top 5 list. 
+		If you want to start over, click the "Start Over" button
+		to clear the Top 5 list.
+	</div>
+
+	<div id="cds">
+	   <img class="cover" src="images/vaughan_flood.jpg" id="1"
+	                      alt="Texas Flood, by Stevie Ray Vaughan" />
+	   <img class="cover" src="images/clapton_cream.jpg" id="2"
+	                      alt="The Cream of Clapton, by Eric Clapton" />
+	   <img class="cover" src="images/mayer_try.jpg" id="3"
+	                      alt="Try! Live, by John Mayer Trio" />
+	   <img class="cover" src="images/waters_live.jpg" id="4"
+	                      alt="Live, by Muddy Waters" />
+	   <img class="cover" src="images/IU_the_winning.jpg" id="5"
+	                      alt="Original Delta Blues, by Son House" />
+	   <img class="cover" src="images/Day6_fourever.jpg" id="6"
+	                      alt="Royal Albert Hall, by Cream" />
+	   <img class="cover" src="images/AKMU_love_lee.jpg" id="7"
+	                      alt="Are You Experienced, by Jimmi Hendrix" />
+	   <img class="cover" src="images/BTS_Dynamite.jpg" id="8"
+	                      alt="The Original Guitar  Wizard, by Lonnie Johnson" />
+	   <img class="cover" src="images/Jannabee_Legend.jpg" id="9"
+	                      alt="Ledbetter Heights, by Kenny Wayne Shepherd" />
+	   <img class="cover" src="images/NewJeans_1st_EP.jpg" id="10"
+	                      alt="The Complete Recordings, by Robert Johnson" />
+	   <img class="cover" src="images/Younha_end_theory.jpg" id="11"
+	                      alt="Blue Country Heart, by Jorma Kaukonen" />
+	   <img class="cover" src="images/BIBI_Bam.jpg" id="12"
+	                      alt="Lie to Me, by Jonny Lang" />
+	</div>
+
+	<div id="top5-listings">
+		<h2>My Top 5 CDs</h2>
+		<div id="top5"></div>
+	</div>
+
+	<form>
+		<input type="button" value="Start Over" /> <!-- onClick="startOver();" /> -->
+	</form>
+</body>
+</html>

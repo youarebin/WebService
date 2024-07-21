@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My title</title>
+	<script src="js/jquery-3.6.0.min.js"></script>
+	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script> -->
+</head>
+<body>
+	<a href="#">My link</a>
+	<h1>My header</h1>
+	<form id="form1" action="#">
+		First name: 
+		<input type="text" name="fname" size="5" /> 
+		<input type="submit" value="제출" disabled />
+	</form>
+<!--
+	<script>
+/*  
+	var a = document.getElementsByTagName("a")[0];
+	a.href = "http://cs.dongduk.ac.kr";
+	var f = document.getElementById("form1");
+	f.fname.value = "Chris";  
+*/
+	$(document).ready(function(){
+   		$("a:first").attr("href", "http://cs.dongduk.ac.kr");
+		$("#form1 > input[name='fname']").val("Chris");
+						// $("...").attr("value", "Chris"); 와 동일
+	});
+	</script>
+-->
+</body>
+</html>
